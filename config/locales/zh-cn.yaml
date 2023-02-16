@@ -1,0 +1,9 @@
+Tag:
+  required: "必须存在，且不能为空"
+  min: "不够长"
+  max: "太长"
+Field:
+  Name: "名称"
+  NickName: "昵称"
+  Password: "密码"
+  PasswordConfirm: "密码校验"
